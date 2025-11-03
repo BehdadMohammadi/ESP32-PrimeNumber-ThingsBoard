@@ -1,6 +1,3 @@
-# ESP32-PrimeNumber-ThingsBoard
-ESP32 FreeRTOS project that generates prime numbers and sends them to a ThingsBoard IoT cloud server using HTTP and WiFi.
-
 # ESP32 Prime Number ThingsBoard Project
 
 This project demonstrates how to use **FreeRTOS tasks** on an **ESP32** to generate prime numbers and send them to **ThingsBoard Cloud** via HTTP.  
